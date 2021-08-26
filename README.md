@@ -1,5 +1,5 @@
 # Quick Summary
-This project is about classify the activity of a vessel based on sequence of vessel position and a few vessel data.
+This project is about classifying the activity of a vessel based on sequence of vessel position and a few vessel data.
 
 # Main Components
 There are three main components in this project
