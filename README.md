@@ -18,3 +18,8 @@ After that, then the model training will follow. There are more than one model t
 
 # Simulation
 In this component, the process will simulate how to use a trained machine learning model using new data. This component will produce an excel file that consists of the classification.
+
+
+# Library installation
+- Install Python (at least version 3.7)
+- `pip install -r requirements4.txt`
